@@ -1,0 +1,10 @@
+#chat-bot{
+    height: 250px;
+    border: 2px solid black;
+    padding: 5px;
+    width: 25%;
+    position: fixed;
+    bottom: 5px;
+    left: 2px;
+
+}
